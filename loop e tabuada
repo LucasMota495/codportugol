@@ -1,0 +1,21 @@
+// looping de repetição + tabuada do numero escolhido + escolha do limite
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro contador,limite,resultado,numero
+		contador = 0
+		escreva("Digite um numero: ")
+		leia(numero)
+		escreva("Digite um numero limite: ")
+		leia(limite)
+		faca{
+
+		resultado = (numero*contador)
+		escreva(numero + " x " + contador + " = " + resultado +"\n")
+		contador++
+			
+		}enquanto (contador <= limite)
+	}
+}
