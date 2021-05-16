@@ -1,5 +1,5 @@
-// primeirocod
-// Meu primeiro codigo feito no portugol
+\\primeirocod
+\\Meu primeiro codigo feito no portugol
 
 
 programa
