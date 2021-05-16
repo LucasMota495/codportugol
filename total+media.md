@@ -1,4 +1,4 @@
-\\Meu primeiro codigo feito no portugol
+\\ Meu primeiro codigo feito no portugol
 
 
 programa
