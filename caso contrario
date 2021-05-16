@@ -1,0 +1,40 @@
+//Desvio condicional = caso contrario
+
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Escolha : 1 - Abrir deezer 2 - Abrir spotify 3 - Abrir amazon music 4 -  SAIR" +" \n")
+		inteiro menu = 0
+		escreva("Sua opção: ")
+		leia(menu) 
+
+		escolha (menu)
+		{
+		caso 1: //testar 1
+		escreva("Abrindo deezer.....")
+		pare
+
+		caso 2: //testar 2
+		escreva("Abrindo  spotify....")
+		pare
+
+		caso 3: //testar 3
+		escreva("Abrindo amazon music.......")
+		pare
+		
+		caso 4: //testar 4
+		escreva("Saindo.......")
+		pare
+
+		caso contrario:
+		escreva("Você deve escolher a opção 1, 2 , 3 ou 4")
+			
+		}
+		
+	}
+
+
+	
+}
